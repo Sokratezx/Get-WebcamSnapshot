@@ -11,5 +11,5 @@ Quick tool to get a Webcam Snapshot via Powershell
 4. Take Snapshot: <br>
 `Get-WebcamSnapshot DEVICE_NUMBER OUTPUT_FILE`
 
-<h4> Requirements: </h4> <br>
+<h4> Requirements: </h4> 
 ffmpeg
