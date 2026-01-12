@@ -1,4 +1,4 @@
-Quick tool to get a WebcamSnapshot via CLI
+Quick tool to get a Webcam Snapshot via Powershell
 
 1. Import ps1:
 . .\snapshot.ps1
