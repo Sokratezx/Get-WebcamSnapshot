@@ -1,8 +1,10 @@
 Quick tool to get a Webcam Snapshot via Powershell
 
-1. Import ps1:
-. .\snapshot.ps1
-2. List Webcam Devices:
-Get-WebcamDevices
-3. Take Snapshot
-Get-WebcamSnapshot DEVICE_NUMBER OUTPUT_FILE
+1. Import ps1:<br>
+`. .\snapshot.ps1`
+
+3. List Webcam Devices:<br>
+`Get-WebcamDevices`
+
+4. Take Snapshot: <br>
+`Get-WebcamSnapshot DEVICE_NUMBER OUTPUT_FILE`
